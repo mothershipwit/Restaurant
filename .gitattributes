@@ -1,2 +1,109 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!doctype html>
+<html>
+     <head>
+          <title>NWA Food Junkies</title>
+          
+          <meta name="description" content="food lovers for arkansas">
+          <meta name="keywords" content="food"> 
+          <a href="www.facebook.com/groups/nwafoodJunkies"> Click Here to Join NWA Food Junkies on Facebook!</a>
+
+     <link rel="stylesheet.css" href="stylesheet.css"
+        </head>
+     <body>
+         <h1>NWA Food Junkies</h1>
+         <h1 style="color:#3f11f5"; text-align:center;</h1>
+            <li>
+        <h2>My Favorite Creations</h2>
+        <h2 style="color:#b01c95"; text-align:center;</h2>
+        </li>
+
+            <li>
+        <h3>Recipe Cards For My Own Meals</h3>
+        <h3 style="color:#69228a"; text-align:center;</h3> 
+            </li>
+
+        <table style="color:black; width: 100%; border: 3px solid;">
+
+            <caption>Scratch Made Dishes</caption>
+            <tr>
+                <li>
+              <th>
+                  <strong>Veggie Entrees</strong>
+            </th>
+            </li>
+
+              <th>Meat Entrees</th>
+            </tr>
+            <tr>
+              <td>Ratatouille</td>
+              <td>Prime Rib</td>
+            </tr>
+            <tr>
+                
+              <td>Summer Squash and Mixed Veggies</td>
+              
+              <td>Sweet Tea Pulled Pork Sliders</td>
+            </tr>
+          </table>
+         
+     
+           <h2>Cast Iron Grilled Ratatouille</h2>
+       <img src="ratatouille.jpg" alt="Ratatouille" style="width:500px;height:600px;">
+       
+       <h2>Sweet Tea Pulled Pork BBQ Sliders 
+           with Bacon Devilled Eggs, Asian Slaw and Bacon BBQ Baked Beans</h2>
+<img src="sweetteapork.jpg" alt="Sweet Tea Pork Sliders" style="width:400px;height:600px;">
+
+<h2>Roasted Root Vegetables</h2>
+<img src="rootveggies.jpg" alt="Roasted Root Veggies" style="width:600px;height:300px;">
+
+<h2>Prime Rib with Twice Baked Potatoes & Spinach Artichoke Dip</h2>
+<img src="primerib.jpg" alt="Roasted Prime Rib" style="width:360px;height:600px;">    
+
+<table style="color:#006666; width: 100%; border: 6px solid;">
+
+    <caption>My Favorite Local Restaraunts</caption>
+    <tr>
+        <li>
+      <th>
+          <strong>Mocking Bird Kitchen</strong>
+    </th>
+    </li>
+
+      <th>Meiji Japanese Cuisine</th>
+    </tr>
+    <tr>
+      <td>Girlscout Cookie Thin Mint Cheesecake</td>
+      <td>Bento Box</td>
+    </tr>
+    <tr>
+        
+      <td>Pan Seared Scallops</td>
+      
+      <td>Girlscout Cookie Thin Mint Cheesecake</td>
+    </tr>
+  </table>
+
+     <h1>My favorite Restaraunts</h1>
+
+     <h1>Mocking Bird Kitchen</h1>
+     <h2>Pan Seared Scallops</h2>
+     <img src="mkscallops.jpg" alt="Pan Seared Scallops with Brussels" style="width:650px;height:800px;">
+     <h2>Girlscout Cookie Thin Mint Cheesecake</h2>
+    <img src="oreopie.jpg" alt="Girlscout Thin Mint Cookie Cheesecake" style="width:600px;height:600px;">
+     
+    <h1>Noodles Italian Kitchen</h1>
+     <h2> Jalapeno Lime Chicken</h2>
+     <img src="nik.jpg" alt="Jalapeno Lime Chicken" style="width:700px;height:400px;">
+
+<h1>Meiji Japanese Cuisine</h1>
+<h2>Teriyaki Chicken Bento Box with Fried Rice and Shrimp Tempura Roll </h2>
+<img src="bentobox.jpg" alt="Teriyaki Bento Box" style="width:700px;height:400px;">
+<h2>Braised Pork Belly in Steamed Bun with Shishito Slaw</h2>
+ <img src="steamedbun.jpg " alt="Pork Steamed Bun" style="width:650px;height:800px;">   
+
+</body>
+</html>
