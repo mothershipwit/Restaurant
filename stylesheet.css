@@ -1,0 +1,48 @@
+/* stylesheet.css */
+/* Style rule for the body element */
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"></link>
+
+body {
+    background-color: yellow;
+     /* Default font styling */
+
+     
+
+    font: 20pt Verdana, Arial, Helvetica;
+    font-family: 'Metal Mania', cursive;
+    color: #5d3f25;
+    * {
+      text-align: center;
+      color: #676767;
+    }
+    <span style="font-size: 3em; color: blue;">
+  <i class="fas '\f09a'"></i>
+</span>
+
+<span style="font-size: 48px; color: Dodgerblue;">
+  <i class="fas '\f09a'"></i>
+</span>
+
+<span style="font-size: 3rem;">
+  <span style="color: Mediumslateblue;">
+  <i class="fas '\f09a'"></i>
+  </span>
+</span>
+
+    .selector-for-some-widget {
+      box-sizing: content-box;
+    }
+    html {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    *, *:before, *:after {
+      -webkit-box-sizing: inherit;
+      -moz-box-sizing: inherit;
+      box-sizing: inherit;
+      }
+}
+
+
+
