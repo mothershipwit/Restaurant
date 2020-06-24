@@ -1,25 +1,26 @@
 /* stylesheet.css */
 /* Style rule for the body element */
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"></link>
 
 body {
-    background-color: yellow;
+    background-color: grey;
      /* Default font styling */
 
-     
-
-    font: 20pt Verdana, Arial, Helvetica;
-    font-family: 'Metal Mania', cursive;
+    
+  
+    font:20pt Sans-Serif, Arial, Helvetica;
+    font-family:'Raleway', sans-serif;
     color: #5d3f25;
     * {
       text-align: center;
-      color: #676767;
+      color: rgba(46, 187, 46, 0.467);
     }
-    <span style="font-size: 3em; color: blue;">
+    <span style="font-size: 3em; color: pink;">
   <i class="fas '\f09a'"></i>
 </span>
 
-<span style="font-size: 48px; color: Dodgerblue;">
+<span style="font-size: 48px; color: green;">
   <i class="fas '\f09a'"></i>
 </span>
 
@@ -28,6 +29,34 @@ body {
   <i class="fas '\f09a'"></i>
   </span>
 </span>
+* {
+  /*font-family: Verdana; */
+}
+h1,h2,h3 {
+  font-family: 'Quicksand', sans-serif;
+}
+img {
+  width: 200px;
+}
+.fab fa-facebook {
+  color: hsla(30, 100%, 50%, .3);
+
+}
+.call-to-action {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 20px;
+      background-color: #0de;
+      color: #fff;
+}
+ body {
+      background-color: #f99;
+      /*color: #666;*/
+      font-family: 'Raleway', sans-serif;
+
+}
 
     .selector-for-some-widget {
       box-sizing: content-box;
@@ -42,7 +71,4 @@ body {
       -moz-box-sizing: inherit;
       box-sizing: inherit;
       }
-}
-
-
 
